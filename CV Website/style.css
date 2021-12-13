@@ -1,0 +1,60 @@
+body{
+
+
+}
+.title-container {
+  height: 40vh;
+
+  background-color: #fffdd0;
+  background-image: linear-gradient(to bottom right, #ffffbf,white);
+
+
+}
+.title-hello{
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 10rem;
+  font-weight: 600;
+}
+.title-subtext{
+  color: #808080;
+  background-color: #c0e9d5;
+
+  font-family: 'Pacifico', cursive;
+  font-size: 3rem;
+  font-weight: 200;
+}
+.title-tag{
+  color: green;
+  font-family: 'Pacifico', cursive;
+  font-size: 1rem;
+  font-weight: 800;
+}
+.about-me-container{
+  height: 40vh;
+  width: 80vw;
+
+  margin-left: 10vw;
+  background-color: #c0e9d5;
+}
+.about-me-image{
+  margin-top: 2vh;
+  width: 30vw;
+  height: 30vw;
+  border-radius: 100%;
+}
+.about-me-text{
+  font-family: 'Alegreya', serif;
+  text-align: left;
+  padding-left: 5% !important;
+  padding-right: 5% !important;
+}
+.contact-me-icon{
+  width: 5rem;
+  height: 5rem;
+}
+.achievement-image{
+  margin-top: 2vh;
+  width: 10vw;
+  height: 10vw;
+  border-radius: 100%;
+}
